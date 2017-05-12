@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Uatizapi</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="texto_validação">Você recebeu um SMS com um código de validação para validar seu número, digite o código recebido abaixo:</string>
+    <string name="titulo_validacao">Validação</string>
+    <string name="btnLogin">Logar</string>
+    <string name="texto_cadastre">Não tem conta? Cadastre-se</string>
+    <string name="item_sair">Sair</string>
+    <string name="item_configuracoes">Configurações</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="adicionar">Adicionar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
